@@ -12,7 +12,7 @@
 Studying flutter and trying to clone the UI of a very famous digital bank in Brazil
 
 ## Screenshots
-![Main Screen](./docs/nubank.png)
+<img src="./docs/nubank.png" width="35%" height="35%"/>
 
 ## Technologies
 * Flutter
